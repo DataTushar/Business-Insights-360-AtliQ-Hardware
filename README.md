@@ -62,9 +62,8 @@ I designed and developed a fully interactive **Power BI dashboard** that empower
 
 ## 🚀 How to Use
 
-1. Clone or download this repository.
-2. Open the `.pbix` file in Power BI Desktop.
-3. Use the navigation buttons or bookmarks to explore each view.
-4. Interact with filters, slicers, and visuals to simulate business analysis.
+📥 [Download PBIX File](https://drive.google.com/file/d/1xZj9ovBBamXAU2mnZnx8XqS2zu0B4BSB/view?usp=sharing)
+
+
 
 
