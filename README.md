@@ -60,9 +60,10 @@ I designed and developed a fully interactive **Power BI dashboard** that empower
 
 
 
-## 🚀 How to Use
+## View live Dashboard Here
+https://app.powerbi.com/view?r=eyJrIjoiMmQ3YTllNjEtMmRiOC00NmQyLWEzOWQtZGJlNDg1NjU1OGNkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
-📥 [Download PBIX File](https://drive.google.com/file/d/1xZj9ovBBamXAU2mnZnx8XqS2zu0B4BSB/view?usp=sharing)
+
 
 
 
